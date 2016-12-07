@@ -1,10 +1,90 @@
 body {
-      margin-left: 250px;
-      margin-right: 250px;
+      margin-left: 325;
+      margin-right: 250;
       font-family:veranda, arial, roman;
-     
+		content: 20px 20px 20px 20px;
+		background-image:url(http://www.decorsupplies.co.uk/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/B/0/B082748427D02DCE2054C3F6BA5DC54C.jpg)
 }
 .Resume {
-       background-image:url(http://2.bp.blogspot.com/-7oiU68Xq4LM/VXVdMJeq1_I/AAAAAAAAAFs/HTYqAtmDucs/s1600/engineeringSW.jpg)
-     
+       width:850px;
+}
+#image1{
+	float:right;
+	margin-right:40px;
+}
+#Introduction{
+	margin-right:200px;
+	
+}
+#grad1{
+	font-weight:bold;
+	color:green;
+}
+#grad2{
+	font-weight:bold;
+	color:green;
+}
+#exp1{
+	font-size: 20px;
+	font-weight: bold;
+	
+}
+#list1{
+	margin-left:20px;
+	line-height:20px;
+}
+#exp2{
+	font-size: 20px;
+font-weight: bold;}
+#list2{
+	margin-left:20px;
+	line-height:20px;
+}
+#list3{
+margin-left:20px;
+line-height:20px;
+}
+#list4{
+margin-left:20px;
+line-height:20px;
+}
+#list5{
+margin-left:20px;
+line-height:20px;
+}
+#list6{
+margin-left:20px;
+line-height:2px;
+}
+
+#edu1{
+	
+	font-size:20px;
+	font-weight: bold;
+	color:black;
+}
+#edu2{
+	
+	font-size:20px;
+	font-weight: bold;
+	color:black;
+}
+#spacing{
+	line-height:23px;
+}
+p{line-height:20px;
+	
+}
+
+h1 {
+        font-size: 35px;
+		color:red;
+}
+h2 {
+	font-size: 27px;
+	color:red;
+}
+h3 {
+	font-size: 27px;
+	color:red;
 }
